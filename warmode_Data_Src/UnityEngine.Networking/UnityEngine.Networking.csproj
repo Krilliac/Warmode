@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{7BC16C7B-1474-426A-9066-DD4BF5924A77}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <OutputType>Library</OutputType>
+    <AssemblyName>UnityEngine.Networking</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="UnityEngine" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UnityEngine.Networking.NetworkSystem\AddPlayerMessage.cs" />
+    <Compile Include="UnityEngine.Networking.NetworkSystem\AnimationMessage.cs" />
+    <Compile Include="UnityEngine.Networking.NetworkSystem\AnimationParametersMessage.cs" />
+    <Compile Include="UnityEngine.Networking.NetworkSystem\AnimationTriggerMessage.cs" />
+    <Compile Include="UnityEngine.Networking.NetworkSystem\ClientAuthorityMessage.cs" />
+    <Compile Include="UnityEngine.Networking.NetworkSystem\CRCMessage.cs" />
+    <Compile Include="UnityEngine.Networking.NetworkSystem\CRCMessageEntry.cs" />
+    <Compile Include="UnityEngine.Networking.NetworkSystem\EmptyMessage.cs" />
+    <Compile Include="UnityEngine.Networking.NetworkSystem\ErrorMessage.cs" />
+    <Compile Include="UnityEngine.Networking.NetworkSystem\IntegerMessage.cs" />
+    <Compile Include="UnityEngine.Networking.NetworkSystem\LobbyReadyToBeginMessage.cs" />
+    <Compile Include="UnityEngine.Networking.NetworkSystem\NotReadyMessage.cs" />
+    <Compile Include="UnityEngine.Networking.NetworkSystem\ObjectDestroyMessage.cs" />
+    <Compile Include="UnityEngine.Networking.NetworkSystem\ObjectSpawnFinishedMessage.cs" />
+    <Compile Include="UnityEngine.Networking.NetworkSystem\ObjectSpawnMessage.cs" />
+    <Compile Include="UnityEngine.Networking.NetworkSystem\ObjectSpawnSceneMessage.cs" />
+    <Compile Include="UnityEngine.Networking.NetworkSystem\OverrideTransformMessage.cs" />
+    <Compile Include="UnityEngine.Networking.NetworkSystem\OwnerMessage.cs" />
+    <Compile Include="UnityEngine.Networking.NetworkSystem\PeerInfoMessage.cs" />
+    <Compile Include="UnityEngine.Networking.NetworkSystem\PeerListMessage.cs" />
+    <Compile Include="UnityEngine.Networking.NetworkSystem\ReadyMessage.cs" />
+    <Compile Include="UnityEngine.Networking.NetworkSystem\RemovePlayerMessage.cs" />
+    <Compile Include="UnityEngine.Networking.NetworkSystem\StringMessage.cs" />
+    <Compile Include="UnityEngine.Networking\ChannelBuffer.cs" />
+    <Compile Include="UnityEngine.Networking\ChannelOption.cs" />
+    <Compile Include="UnityEngine.Networking\ChannelPacket.cs" />
+    <Compile Include="UnityEngine.Networking\Channels.cs" />
+    <Compile Include="UnityEngine.Networking\ClientAttribute.cs" />
+    <Compile Include="UnityEngine.Networking\ClientCallbackAttribute.cs" />
+    <Compile Include="UnityEngine.Networking\ClientRpcAttribute.cs" />
+    <Compile Include="UnityEngine.Networking\ClientScene.cs" />
+    <Compile Include="UnityEngine.Networking\CommandAttribute.cs" />
+    <Compile Include="UnityEngine.Networking\ConnectionArray.cs" />
+    <Compile Include="UnityEngine.Networking\FloatConversion.cs" />
+    <Compile Include="UnityEngine.Networking\LocalClient.cs" />
+    <Compile Include="UnityEngine.Networking\LogFilter.cs" />
+    <Compile Include="UnityEngine.Networking\MessageBase.cs" />
+    <Compile Include="UnityEngine.Networking\MsgType.cs" />
+    <Compile Include="UnityEngine.Networking\NetBuffer.cs" />
+    <Compile Include="UnityEngine.Networking\NetworkAnimator.cs" />
+    <Compile Include="UnityEngine.Networking\NetworkBehaviour.cs" />
+    <Compile Include="UnityEngine.Networking\NetworkBroadcastResult.cs" />
+    <Compile Include="UnityEngine.Networking\NetworkClient.cs" />
+    <Compile Include="UnityEngine.Networking\NetworkConnection.cs" />
+    <Compile Include="UnityEngine.Networking\NetworkCRC.cs" />
+    <Compile Include="UnityEngine.Networking\NetworkDiscovery.cs" />
+    <Compile Include="UnityEngine.Networking\NetworkHash128.cs" />
+    <Compile Include="UnityEngine.Networking\NetworkIdentity.cs" />
+    <Compile Include="UnityEngine.Networking\NetworkInstanceId.cs" />
+    <Compile Include="UnityEngine.Networking\NetworkLobbyManager.cs" />
+    <Compile Include="UnityEngine.Networking\NetworkLobbyPlayer.cs" />
+    <Compile Include="UnityEngine.Networking\NetworkManager.cs" />
+    <Compile Include="UnityEngine.Networking\NetworkManagerHUD.cs" />
+    <Compile Include="UnityEngine.Networking\NetworkMessage.cs" />
+    <Compile Include="UnityEngine.Networking\NetworkMessageDelegate.cs" />
+    <Compile Include="UnityEngine.Networking\NetworkMessageHandlers.cs" />
+    <Compile Include="UnityEngine.Networking\NetworkProximityChecker.cs" />
+    <Compile Include="UnityEngine.Networking\NetworkReader.cs" />
+    <Compile Include="UnityEngine.Networking\NetworkScene.cs" />
+    <Compile Include="UnityEngine.Networking\NetworkSceneId.cs" />
+    <Compile Include="UnityEngine.Networking\NetworkServer.cs" />
+    <Compile Include="UnityEngine.Networking\NetworkSettingsAttribute.cs" />
+    <Compile Include="UnityEngine.Networking\NetworkStartPosition.cs" />
+    <Compile Include="UnityEngine.Networking\NetworkTransform.cs" />
+    <Compile Include="UnityEngine.Networking\NetworkTransformChild.cs" />
+    <Compile Include="UnityEngine.Networking\NetworkTransformVisualizer.cs" />
+    <Compile Include="UnityEngine.Networking\NetworkWriter.cs" />
+    <Compile Include="UnityEngine.Networking\PlayerController.cs" />
+    <Compile Include="UnityEngine.Networking\PlayerSpawnMethod.cs" />
+    <Compile Include="UnityEngine.Networking\ServerAttribute.cs" />
+    <Compile Include="UnityEngine.Networking\ServerCallbackAttribute.cs" />
+    <Compile Include="UnityEngine.Networking\SpawnDelegate.cs" />
+    <Compile Include="UnityEngine.Networking\SyncEventAttribute.cs" />
+    <Compile Include="UnityEngine.Networking\SyncList.cs" />
+    <Compile Include="UnityEngine.Networking\SyncListBool.cs" />
+    <Compile Include="UnityEngine.Networking\SyncListFloat.cs" />
+    <Compile Include="UnityEngine.Networking\SyncListInt.cs" />
+    <Compile Include="UnityEngine.Networking\SyncListString.cs" />
+    <Compile Include="UnityEngine.Networking\SyncListStruct.cs" />
+    <Compile Include="UnityEngine.Networking\SyncListUInt.cs" />
+    <Compile Include="UnityEngine.Networking\SyncVarAttribute.cs" />
+    <Compile Include="UnityEngine.Networking\UIntFloat.cs" />
+    <Compile Include="UnityEngine.Networking\ULocalConnectionToClient.cs" />
+    <Compile Include="UnityEngine.Networking\ULocalConnectionToServer.cs" />
+    <Compile Include="UnityEngine.Networking\UnSpawnDelegate.cs" />
+    <Compile Include="UnityEngine.Networking\Version.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
