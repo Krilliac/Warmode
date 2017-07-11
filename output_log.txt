@@ -1,0 +1,629 @@
+Initialize engine version: 5.2.4f1 (98095704e6fe)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1b81)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\SteamLibrary\steamapps\common\WARMODE\warmode_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\SteamLibrary\steamapps\common\WARMODE\warmode_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\SteamLibrary\steamapps\common\WARMODE\warmode_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\SteamLibrary\steamapps\common\WARMODE\warmode_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\SteamLibrary\steamapps\common\WARMODE\warmode_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\SteamLibrary\steamapps\common\WARMODE\warmode_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\SteamLibrary\steamapps\common\WARMODE\warmode_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\SteamLibrary\steamapps\common\WARMODE\warmode_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\SteamLibrary\steamapps\common\WARMODE\warmode_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\SteamLibrary\steamapps\common\WARMODE\warmode_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\SteamLibrary\steamapps\common\WARMODE\warmode_Data\Managed\TcpClientImplementation.dll (this message is harmless)
+Loading D:\SteamLibrary\steamapps\common\WARMODE\warmode_Data\Managed\TcpClientImplementation.dll into Unity Child Domain
+Platform assembly: D:\SteamLibrary\steamapps\common\WARMODE\warmode_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.030 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+Platform assembly: D:\SteamLibrary\steamapps\common\WARMODE\warmode_Data\Managed\System.dll (this message is harmless)
+MainManager::Awake
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Apply resolution: 7 1280x720
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+http://95.213.132.75/core/handler.php?platform=steam&ucmd=200&uid=76561198025857979&time=0&key=5c5b81373def9c49ea0c148878dc5de6&version=12&name=Krill
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+http://95.213.132.75/core/handler.php?platform=steam&ucmd=201&uid=76561198025857979&key=5c5b81373def9c49ea0c148878dc5de6&time=0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+StartAuth
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Platform assembly: D:\SteamLibrary\steamapps\common\WARMODE\warmode_Data\Managed\Mono.Security.dll (this message is harmless)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2268 -> priority: 1 
+  Thread -> id: 4d28 -> priority: 1 
+LOADPACK: file://D:/SteamLibrary/steamapps/common/WARMODE/warmode_Data/../data/Pack_weapon_ak47.pack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LOADPACK: file://D:/SteamLibrary/steamapps/common/WARMODE/warmode_Data/../data/Pack_weapon_aks74u.pack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LOADPACK: file://D:/SteamLibrary/steamapps/common/WARMODE/warmode_Data/../data/Pack_weapon_asval.pack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LOADPACK: file://D:/SteamLibrary/steamapps/common/WARMODE/warmode_Data/../data/Pack_weapon_aug.pack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LOADPACK: file://D:/SteamLibrary/steamapps/common/WARMODE/warmode_Data/../data/Pack_weapon_awp.pack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LOADPACK: file://D:/SteamLibrary/steamapps/common/WARMODE/warmode_Data/../data/Pack_weapon_bm4.pack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LOADPACK: file://D:/SteamLibrary/steamapps/common/WARMODE/warmode_Data/../data/Pack_weapon_c4.pack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LOADPACK: file://D:/SteamLibrary/steamapps/common/WARMODE/warmode_Data/../data/Pack_weapon_famas.pack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LOADPACK: file://D:/SteamLibrary/steamapps/common/WARMODE/warmode_Data/../data/Pack_weapon_grenades.pack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LOADPACK: file://D:/SteamLibrary/steamapps/common/WARMODE/warmode_Data/../data/Pack_weapon_knife.pack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LOADPACK: file://D:/SteamLibrary/steamapps/common/WARMODE/warmode_Data/../data/Pack_weapon_kniferun.pack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LOADPACK: file://D:/SteamLibrary/steamapps/common/WARMODE/warmode_Data/../data/Pack_weapon_m4a1.pack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LOADPACK: file://D:/SteamLibrary/steamapps/common/WARMODE/warmode_Data/../data/Pack_weapon_m24.pack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LOADPACK: file://D:/SteamLibrary/steamapps/common/WARMODE/warmode_Data/../data/Pack_weapon_m90.pack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LOADPACK: file://D:/SteamLibrary/steamapps/common/WARMODE/warmode_Data/../data/Pack_weapon_m110.pack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LOADPACK: file://D:/SteamLibrary/steamapps/common/WARMODE/warmode_Data/../data/Pack_weapon_m249.pack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LOADPACK: file://D:/SteamLibrary/steamapps/common/WARMODE/warmode_Data/../data/Pack_weapon_mp5.pack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LOADPACK: file://D:/SteamLibrary/steamapps/common/WARMODE/warmode_Data/../data/Pack_weapon_mp7.pack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LOADPACK: file://D:/SteamLibrary/steamapps/common/WARMODE/warmode_Data/../data/Pack_weapon_p90.pack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LOADPACK: file://D:/SteamLibrary/steamapps/common/WARMODE/warmode_Data/../data/Pack_weapon_pistols.pack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LOADPACK: file://D:/SteamLibrary/steamapps/common/WARMODE/warmode_Data/../data/Pack_weapon_pkp.pack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LOADPACK: file://D:/SteamLibrary/steamapps/common/WARMODE/warmode_Data/../data/Pack_weapon_qbz95.pack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LOADPACK: file://D:/SteamLibrary/steamapps/common/WARMODE/warmode_Data/../data/Pack_weapon_spas12.pack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LOADPACK: file://D:/SteamLibrary/steamapps/common/WARMODE/warmode_Data/../data/Pack_weapon_svd.pack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LOADPACK: file://D:/SteamLibrary/steamapps/common/WARMODE/warmode_Data/../data/Pack_weapon_ump45.pack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LOADPACK: file://D:/SteamLibrary/steamapps/common/WARMODE/warmode_Data/../data/Pack_weapon_zombiehand.pack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LOADPACK: file://D:/SteamLibrary/steamapps/common/WARMODE/warmode_Data/../data/PackAwards.pack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LOADPACK: file://D:/SteamLibrary/steamapps/common/WARMODE/warmode_Data/../data/PackBadges.pack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LOADPACK: file://D:/SteamLibrary/steamapps/common/WARMODE/warmode_Data/../data/PackDetonator.pack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LOADPACK: file://D:/SteamLibrary/steamapps/common/WARMODE/warmode_Data/../data/PackGame.pack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LOADPACK: file://D:/SteamLibrary/steamapps/common/WARMODE/warmode_Data/../data/PackLoader.pack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LOADPACK: file://D:/SteamLibrary/steamapps/common/WARMODE/warmode_Data/../data/PackMainMenu.pack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LOADPACK: file://D:/SteamLibrary/steamapps/common/WARMODE/warmode_Data/../data/PackMaskCorp.pack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LOADPACK: file://D:/SteamLibrary/steamapps/common/WARMODE/warmode_Data/../data/PackMaskMerc.pack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LOADPACK: file://D:/SteamLibrary/steamapps/common/WARMODE/warmode_Data/../data/PackMusic.pack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LOADPACK: file://D:/SteamLibrary/steamapps/common/WARMODE/warmode_Data/../data/PackPlayer.pack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LOADPACK: file://D:/SteamLibrary/steamapps/common/WARMODE/warmode_Data/../data/PackPlayerSounds.pack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LOADPACK: file://D:/SteamLibrary/steamapps/common/WARMODE/warmode_Data/../data/PackWeaponSounds.pack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LOADPACK: file://D:/SteamLibrary/steamapps/common/WARMODE/warmode_Data/../data/PackSkyboxes.pack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LOADPACK: file://D:/SteamLibrary/steamapps/common/WARMODE/warmode_Data/../data/PackZombie.pack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LOADPACK: file://D:/SteamLibrary/steamapps/common/WARMODE/warmode_Data/../data/PackSkin_ak47.pack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LOADPACK: file://D:/SteamLibrary/steamapps/common/WARMODE/warmode_Data/../data/PackSkin_aks74u.pack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LOADPACK: file://D:/SteamLibrary/steamapps/common/WARMODE/warmode_Data/../data/PackSkin_asval.pack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LOADPACK: file://D:/SteamLibrary/steamapps/common/WARMODE/warmode_Data/../data/PackSkin_aug.pack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LOADPACK: file://D:/SteamLibrary/steamapps/common/WARMODE/warmode_Data/../data/PackSkin_awp.pack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LOADPACK: file://D:/SteamLibrary/steamapps/common/WARMODE/warmode_Data/../data/PackSkin_beretta.pack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LOADPACK: file://D:/SteamLibrary/steamapps/common/WARMODE/warmode_Data/../data/PackSkin_bm4.pack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LOADPACK: file://D:/SteamLibrary/steamapps/common/WARMODE/warmode_Data/../data/PackSkin_colt.pack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LOADPACK: file://D:/SteamLibrary/steamapps/common/WARMODE/warmode_Data/../data/PackSkin_deagle.pack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LOADPACK: file://D:/SteamLibrary/steamapps/common/WARMODE/warmode_Data/../data/PackSkin_famas.pack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LOADPACK: file://D:/SteamLibrary/steamapps/common/WARMODE/warmode_Data/../data/PackSkin_glock17.pack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LOADPACK: file://D:/SteamLibrary/steamapps/common/WARMODE/warmode_Data/../data/PackSkin_m4a1.pack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LOADPACK: file://D:/SteamLibrary/steamapps/common/WARMODE/warmode_Data/../data/PackSkin_m24.pack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LOADPACK: file://D:/SteamLibrary/steamapps/common/WARMODE/warmode_Data/../data/PackSkin_m90.pack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LOADPACK: file://D:/SteamLibrary/steamapps/common/WARMODE/warmode_Data/../data/PackSkin_m110.pack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LOADPACK: file://D:/SteamLibrary/steamapps/common/WARMODE/warmode_Data/../data/PackSkin_m249.pack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LOADPACK: file://D:/SteamLibrary/steamapps/common/WARMODE/warmode_Data/../data/PackSkin_mp5.pack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LOADPACK: file://D:/SteamLibrary/steamapps/common/WARMODE/warmode_Data/../data/PackSkin_mp7.pack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LOADPACK: file://D:/SteamLibrary/steamapps/common/WARMODE/warmode_Data/../data/PackSkin_p90.pack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LOADPACK: file://D:/SteamLibrary/steamapps/common/WARMODE/warmode_Data/../data/PackSkin_pkp.pack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LOADPACK: file://D:/SteamLibrary/steamapps/common/WARMODE/warmode_Data/../data/PackSkin_qbz95.pack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LOADPACK: file://D:/SteamLibrary/steamapps/common/WARMODE/warmode_Data/../data/PackSkin_remington.pack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LOADPACK: file://D:/SteamLibrary/steamapps/common/WARMODE/warmode_Data/../data/PackSkin_spas12.pack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LOADPACK: file://D:/SteamLibrary/steamapps/common/WARMODE/warmode_Data/../data/PackSkin_svd.pack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+LOADPACK: file://D:/SteamLibrary/steamapps/common/WARMODE/warmode_Data/../data/PackSkin_ump45.pack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+MAIN.LOADEND
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.072864 ms
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (MainCamera).
+ 
+(Filename:  Line: 525)
+
+PlayerControll.Init
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+[TEX] can't load: weapon_weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+[TEX] can't load: weapon_kniferun
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+[TEX] can't load: weapon_c4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 276 unused Assets to reduce memory usage. Loaded Objects now: 20923.
+Total: 5.100728 ms (FindLiveObjects: 0.451778 ms CreateObjectMapping: 1.121277 ms MarkObjects: 3.395772 ms  DeleteObjects: 0.131169 ms)
+
+connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+[NET] AUTH ID = 3 MAP 25v0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+25v0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1496)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1496)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1496)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1496)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 2)
+UnloadTime: 0.732402 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 29792.
+Total: 5.378183 ms (FindLiveObjects: 0.667792 ms CreateObjectMapping: 1.016927 ms MarkObjects: 3.660792 ms  DeleteObjects: 0.032182 ms)
+
+Batch Combine map
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+MapLoader::SkyBox: eerie
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+recv_playerdata, id: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+recv_playerdata, id: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+recv_playerdata, id: 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+recv_playerdata, id: 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+recv_playerdata, id: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+recv_playerdata, id: 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+recv_playerdata, id: 6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+recv_playerdata, id: 7
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+recv_playerdata, id: 8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+recv_playerdata, id: 10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+recv_playerdata, id: 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+recv_playerdata, id: 9
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+recv_playerdata, id: 11
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+recv_playerdata, id: 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+recv_playerdata, id: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+null texture passed to GUI.DrawTexture
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+recv_playerdata, id: 9
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+recv_playerdata, id: 11
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+recv_playerdata, id: 15
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.825363 ms
+[ACTk] Anti-Cheat Toolkit Detectors: self-destroying, other instance already exists & only one instance allowed!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+[ACTk] Anti-Cheat Toolkit Detectors: self-destroying, other instance already exists & only one instance allowed!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+[ACTk] Anti-Cheat Toolkit Detectors: self-destroying, other instance already exists & only one instance allowed!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+MainManager::Awake
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+MAIN.LOADEND
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+http://95.213.132.75/core/handler.php?platform=steam&ucmd=200&uid=76561198025857979&time=1224.052&key=5c5b81373def9c49ea0c148878dc5de6&version=12&name=Krill
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+http://95.213.132.75/core/handler.php?platform=steam&ucmd=201&uid=76561198025857979&key=5c5b81373def9c49ea0c148878dc5de6&time=1224.052
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+StartAuth
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 2258 unused Assets to reduce memory usage. Loaded Objects now: 21010.
+Total: 6.180558 ms (FindLiveObjects: 0.570269 ms CreateObjectMapping: 0.896729 ms MarkObjects: 3.592282 ms  DeleteObjects: 1.120302 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.420187 ms
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (MainCamera).
+ 
+(Filename:  Line: 525)
+
+PlayerControll.Init
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+[TEX] can't load: weapon_weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+[TEX] can't load: weapon_kniferun
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+[TEX] can't load: weapon_c4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 88 unused Assets to reduce memory usage. Loaded Objects now: 21004.
+Total: 5.636620 ms (FindLiveObjects: 0.460555 ms CreateObjectMapping: 0.860889 ms MarkObjects: 4.235450 ms  DeleteObjects: 0.078750 ms)
+
+connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+[NET] AUTH ID = 2 MAP 02v0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+02v0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 2)
+UnloadTime: 0.788234 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 27015.
+Total: 5.954791 ms (FindLiveObjects: 0.659991 ms CreateObjectMapping: 0.816516 ms MarkObjects: 4.445613 ms  DeleteObjects: 0.031938 ms)
+
+Setting up 6 worker threads for Enlighten.
+  Thread -> id: 5e20 -> priority: 1 
+  Thread -> id: 6cd4 -> priority: 1 
+  Thread -> id: 5324 -> priority: 1 
+  Thread -> id: 5f14 -> priority: 1 
+  Thread -> id: 6424 -> priority: 1 
+  Thread -> id: 4c78 -> priority: 1 
+Batch Combine map
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+MapLoader::SkyBox: overcast1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+recv_playerdata, id: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+recv_playerdata, id: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+recv_playerdata, id: 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+recv_playerdata, id: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.577931 ms
+[ACTk] Anti-Cheat Toolkit Detectors: self-destroying, other instance already exists & only one instance allowed!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+[ACTk] Anti-Cheat Toolkit Detectors: self-destroying, other instance already exists & only one instance allowed!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+[ACTk] Anti-Cheat Toolkit Detectors: self-destroying, other instance already exists & only one instance allowed!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+MainManager::Awake
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+MAIN.LOADEND
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+http://95.213.132.75/core/handler.php?platform=steam&ucmd=200&uid=76561198025857979&time=1227.538&key=5c5b81373def9c49ea0c148878dc5de6&version=12&name=Krill
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+http://95.213.132.75/core/handler.php?platform=steam&ucmd=201&uid=76561198025857979&key=5c5b81373def9c49ea0c148878dc5de6&time=1227.538
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+StartAuth
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 379 unused Assets to reduce memory usage. Loaded Objects now: 21041.
+Total: 6.114242 ms (FindLiveObjects: 0.400822 ms CreateObjectMapping: 0.863083 ms MarkObjects: 4.475114 ms  DeleteObjects: 0.374978 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 6474 -> priority: 1 
+  Thread -> id: 2e48 -> priority: 1 
